@@ -40,7 +40,7 @@ def wrap_text(text, font, max_width):
 
 # === Streamlit UI ===
 st.set_page_config(page_title="ID Card Generator with QR", layout="centered")
-st.title("🪪 ID Card Generator with QR Code")
+st.title("🪪 SOAI ID Card Generator")
 st.write("Upload a CSV with columns: `Name`, `ID`, and `username`")
 
 # === Password Protection ===
